@@ -1,0 +1,19 @@
+1. Installiere auf CurseForge Minecraft "Revelation 3.4.0"
+2. Gehe auf CurseForge auf "My Modpacks" und klicke mit der Rechten Maustaste auf "Revelation 3.4.0"
+3. Gehe nun auf "Open Folder"
+4. Gehe in den Ordner "mods" und lösche "ElecCore" aus dem Verzeichnis
+5. Nun verschiebe den gesamten Inhalt aus "/Minecraft Server/Mods/..."  In den "mods" Ordner von "Revelation" 
+6. Lade dir Betweenlands runter und verschiebe die Datei auch in den Revelation "mods" Ordner
+
+https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod/files
+
+Fertig.
+
+IP:
+5.83.175.253:14600
+
+Optional:
+Um deine RAM Einstellung dauerhaft anzupassen, muss du in Curse Forge, My Modpacks auf Revelation 3.4.0 klicken, auf die 3 Punkte neben "Play" und dann auf "Profile Options".
+Dort nimmst du den Haken bei "Use System Memory Settings" raus und verstellst den Regeler wie es dir passt.
+
+Golde Regel: Maximal die hälfte von deinem Gesamt RAM einstellen.
